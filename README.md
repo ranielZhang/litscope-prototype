@@ -12,7 +12,7 @@ npm run build
 
 ## GitHub Pages
 
-仓库已包含 Pages 工作流。首次使用时，请在仓库的 Settings → Pages 中将 Source 设为 GitHub Actions。保存后，页面地址为：
+本仓库的 Pages 已配置为由 `main` 分支根目录直接发布，推送后自动更新，页面地址为：
 
 https://ranielzhang.github.io/litscope-prototype/
 
