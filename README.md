@@ -14,6 +14,6 @@ npm run build
 
 仓库已包含 Pages 工作流。首次使用时，请在仓库的 Settings → Pages 中将 Source 设为 GitHub Actions。保存后，页面地址为：
 
-https://niubition.github.io/litscope-prototype/
+https://ranielzhang.github.io/litscope-prototype/
 
 页面中的检索、筛选、收藏、导出、API 设置和连接测试均为演示交互，连接测试不会发送真实密钥或请求。
